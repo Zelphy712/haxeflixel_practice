@@ -1,2 +1,2 @@
-# haxeflixel_practice
-created secondary repository to upload assignment 3
+# haxeflixel-practice
+haxeflixel practice repository for assignment 2 of CSC 303 
